@@ -1,0 +1,12 @@
+C:\Users\mdbul\source\repos\PlanetaryWeight\bin\Debug\PlanetaryWeight.exe.config
+C:\Users\mdbul\source\repos\PlanetaryWeight\bin\Debug\PlanetaryWeight.exe
+C:\Users\mdbul\source\repos\PlanetaryWeight\bin\Debug\PlanetaryWeight.pdb
+C:\Users\mdbul\source\repos\PlanetaryWeight\bin\Debug\PlanetaryWeight.xml
+C:\Users\mdbul\source\repos\PlanetaryWeight\obj\Debug\PlanetaryWeight.vbproj.AssemblyReference.cache
+C:\Users\mdbul\source\repos\PlanetaryWeight\obj\Debug\PlanetaryWeight.Resources.resources
+C:\Users\mdbul\source\repos\PlanetaryWeight\obj\Debug\PlanetaryWeight.vbproj.GenerateResource.cache
+C:\Users\mdbul\source\repos\PlanetaryWeight\obj\Debug\PlanetaryWeight.vbproj.CoreCompileInputs.cache
+C:\Users\mdbul\source\repos\PlanetaryWeight\obj\Debug\PlanetaryWeight.exe
+C:\Users\mdbul\source\repos\PlanetaryWeight\obj\Debug\PlanetaryWeight.xml
+C:\Users\mdbul\source\repos\PlanetaryWeight\obj\Debug\PlanetaryWeight.pdb
+C:\Users\mdbul\source\repos\PlanetaryWeight\obj\Debug\PlanetaryWeight.frmPlanetaryWeight.resources
